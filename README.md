@@ -1,6 +1,6 @@
 # :dollar: Capital Asset Pricing Model :bar_chart:
 
-Alpha and beta calculations of the ASX stocks of ten relatively new-on-the-block technology companies doing interesting work in the AI and ML and general technology space. 
+Alpha and beta calculations in Python of the ASX stocks of ten relatively new-on-the-block technology companies doing interesting work in the AI and ML and general technology space. 
 
 
 The stocks are as follows:
